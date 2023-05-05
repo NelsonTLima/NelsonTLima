@@ -1,13 +1,14 @@
-# Hi everyone at GitHub!
-
-My name is Nelson Lima and i\'m a Computer Science and Computer Networks student at UNIPE and IFPB, respectively. I\'ve been learning how to write code since march 2022, while i was at the end of law school. Actually, i didn\'t complete it. As the matter of fact, i didn\'t **really** like law school, except for the phylosophic part - i liked phylosophy, sociology, politics and athropology, but i didn\'t see myself working with law at all. Also, i\'m a musician. Before i started at IT, i was playing the keyboard with a localy famous female country singer for a living. By the end of the year of 2022, i was writing code instead of writing my paper on human rights and cryptography. **I really felt in love with proggramming**. Now i\'m focussing exclusively on my tech studies. It\'s hard for me to evaluate myself as a developer. So, even though i learn things **really fast**, i guess i'm at a begginner level yet. Well, you can see my codes for yourself and tell. Everything i\'ve been doing code-wise is right here at my GitHub. You can be my guest!
-
-### You can find me at:
+# You can find me at:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NelsonTLima)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsontlima/)
 
 ![miself coding draw](/assets/art.png)
+
+
+# Hi everyone at GitHub!
+
+My name is Nelson Lima and i\'m a Computer Science and Computer Networks student at UNIPE and IFPB, respectively. I\'ve been learning how to write code since march 2022, while i was at the end of law school. Actually, i didn\'t complete it. As the matter of fact, i didn\'t **really** like law school, except for the phylosophic part - i liked phylosophy, sociology, politics and athropology, but i didn\'t see myself working with law at all. Also, i\'m a musician. Before i started at IT, i was playing the keyboard with a localy famous female country singer for a living. By the end of the year of 2022, i was writing code instead of writing my paper on human rights and cryptography. **I really felt in love with proggramming**. Now i\'m focussing exclusively on my tech studies. It\'s hard for me to evaluate myself as a developer. So, even though i learn things **really fast**, i guess i'm at a begginner level yet. Well, you can see my codes for yourself and tell. Everything i\'ve been doing code-wise is right here at my GitHub. You can be my guest!
 
 ### My top interests are:
 
@@ -78,4 +79,4 @@ I\'m not a god at all these technologies, but i\'ve already tried every single o
 ![opengl](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
 ![stats](https://github-readme-stats.vercel.app/api/?username=NelsonTLima&show_icons=true&theme=radical)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonTLima&langs_count=8&layout=compact&show_icons=true&theme=radical)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonTLima&langs_count=10&layout=compact&show_icons=true&theme=radical)
