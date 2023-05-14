@@ -8,7 +8,7 @@
 
 # Hi everyone at GitHub!
 
-My name is Nelson Lima, since march 2023 i\'m a Computer Science and Computer Networks student at UNIPE and IFPB, respectively but i\'ve been learning how to write code since march 2022, while i was working as a musician and while i was at the end of law school wich i didn\'t complete, actually. As the matter of fact, i didn\'t **really** like law, except for the phylosophic part. By the end of 2022, i was writing code instead of writing my paper on human rights and cryptography. **I really felt in love with proggramming**. Now i\'m focussing exclusively on my tech studies. It\'s hard for me to evaluate myself as a developer. So, even though i learn things **really fast**, i guess i'm at a begginner level yet. Well, you can see my codes for yourself and tell. Everything i\'ve been doing code-wise is right here at my GitHub. You can be my guest!
+My name is Nelson Lima, since march 2023 i\'m a Computer Science and Computer Networks student at UNIPE and IFPB, respectively. But i\'ve been learning how to write code since march 2022. At that time i was working as a musician and i was at the end of law school (wich i didn\'t complete). As the matter of fact, i didn\'t **really** like law, except for the phylosophical part. By the end of 2022, i was writing code instead of writing my paper on human rights and cryptography. **I really felt in love with proggramming**. Now i\'m focussing exclusively on my tech studies. It\'s hard for me to evaluate myself as a developer. So, even though i learn things **really fast**, i guess i'm at a begginner level yet. Well, you can see my codes for yourself and tell. Everything i\'ve been doing code-wise is right here at my GitHub. You can be my guest!
 
 ### My top interests are:
 
