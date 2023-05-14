@@ -8,7 +8,7 @@
 
 # Hi everyone at GitHub!
 
-My name is Nelson Lima and i\'m a Computer Science and Computer Networks student at UNIPE and IFPB, respectively. I\'ve been learning how to write code since march 2022, while i was at the end of law school. Actually, i didn\'t complete it. As the matter of fact, i didn\'t **really** like law school, except for the phylosophic part - i liked phylosophy, sociology, politics and athropology, but i didn\'t see myself working with law at all. Also, i\'m a musician. Before i started at IT, i was playing the keyboard with a localy famous female country singer for a living. By the end of the year of 2022, i was writing code instead of writing my paper on human rights and cryptography. **I really felt in love with proggramming**. Now i\'m focussing exclusively on my tech studies. It\'s hard for me to evaluate myself as a developer. So, even though i learn things **really fast**, i guess i'm at a begginner level yet. Well, you can see my codes for yourself and tell. Everything i\'ve been doing code-wise is right here at my GitHub. You can be my guest!
+My name is Nelson Lima, since march 2023 i\'m a Computer Science and Computer Networks student at UNIPE and IFPB, respectively but i\'ve been learning how to write code since march 2022, while i was working as a musician and while i was at the end of law school wich i didn\'t complete, actually. As the matter of fact, i didn\'t **really** like law, except for the phylosophic part. By the end of 2022, i was writing code instead of writing my paper on human rights and cryptography. **I really felt in love with proggramming**. Now i\'m focussing exclusively on my tech studies. It\'s hard for me to evaluate myself as a developer. So, even though i learn things **really fast**, i guess i'm at a begginner level yet. Well, you can see my codes for yourself and tell. Everything i\'ve been doing code-wise is right here at my GitHub. You can be my guest!
 
 ### My top interests are:
 
@@ -20,7 +20,11 @@ My name is Nelson Lima and i\'m a Computer Science and Computer Networks student
 
 ### Things i do for fun (code-wise):
 
-I have nothing against Visual Studio Code or any other IDE, but i use VIM. Mostly because it felt that if i learn to do things by the hardest path, or from scratch, i would become a better developer. I actually love to customize my ".vimrc", make my own shortcuts and writing custom syntax plugins as well. Also, i love how fast VIM is and, the most important, i love how badass i look proggramming at it. Also, i have lots of fun creating virtual machines and doing some experiments with those machines. And, even though i rather code backend over frontend, aesthetics is a really important part of my workflow. I love letting my envirognment as beautiful, simple and functional as i can. E.G. that\'s a typical view i have while coding:
+- Customizing VIM.
+_nothing against VS Code, i just thought that it would be nice to master something i could use in terminal._
+- Creating virtual machines.
+- Customizing my whole working envirognment.
+_Even though i rather code backend over frontend, aesthetics is a really important part of my workflow. I love letting it as beautiful, simple and functional as i can. E.G. that\'s a typical view i have while coding:_
 
 ![screenshot](/assets/screen.png)
 
@@ -42,7 +46,7 @@ I have nothing against Visual Studio Code or any other IDE, but i use VIM. Mostl
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 #### Databases, languages and frameworks:
-I\'m not a god at all these technologies, but i\'ve already tried every single one of these. I\'m better at some than the others.
+I\'m better at some than the others.
 
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
