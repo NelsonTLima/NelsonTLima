@@ -21,10 +21,10 @@ My name is Nelson Lima, since march 2023 i\'m a Computer Science and Computer Ne
 ### Things i do for fun (code-wise):
 
 - Customizing VIM.
-_nothing against VS Code, i just thought that it would be nice to master something i could use in terminal._
+(nothing against VS Code, i just thought that it would be nice to master something i could use in terminal).
 - Creating virtual machines.
 - Customizing my whole working envirognment.
-_Even though i rather code backend over frontend, aesthetics is a really important part of my workflow. I love letting it as beautiful, simple and functional as i can. E.G. that\'s a typical view i have while coding:_
+E.G. that\'s a typical view i have while coding:
 
 ![screenshot](/assets/screen.png)
 
