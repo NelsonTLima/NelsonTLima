@@ -1,10 +1,9 @@
+<img src="/assets/art.png" width="600px" align="center">
+
 # You can find me at:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NelsonTLima)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsontlima/)
-
-<img src="/assets/art.png" align="center" width="300px">
-
 
 # Hi everyone at GitHub!
 
