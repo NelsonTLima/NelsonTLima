@@ -1,4 +1,6 @@
-<img src="/assets/art.png" width="600px" align="center">
+<h1 align="center">
+    <img src="/assets/art.png" width="600px">
+</h1>
 
 # You can find me at:
 
