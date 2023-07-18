@@ -13,14 +13,5 @@ I started programming as a self-taught enthusiast and now I am enrolled in two c
 
 Let's code something together?
 
-
-### My top interests are:
-
-- Software engeneering
-- Backend developing
-- Networks
-- Cryptography
-- Cybersecurity
-
 ![stats](https://github-readme-stats.vercel.app/api/?username=NelsonTLima&show_icons=true&theme=radical)
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonTLima&langs_count=10&layout=compact&show_icons=true&theme=radical)
